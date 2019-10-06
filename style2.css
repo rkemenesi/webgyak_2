@@ -1,0 +1,19 @@
+h1{
+    color: coral;
+    font-size: xx-large;
+}
+h2{
+    color: blueviolet;
+    font-size: x-large;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+ol {
+list-style-type: upper-roman;
+text-decoration: underline;
+}
+.pink{
+    color: pink;
+    text-decoration: underline;
+}
